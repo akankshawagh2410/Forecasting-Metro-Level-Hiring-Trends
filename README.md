@@ -58,7 +58,7 @@ This project focuses on modeling and forecasting hiring trends at the metro leve
 
 - `MA641_Final_Project_2.pdf`: Full project report with plots and interpretation
 - `forecast_script.R`: R script used for analysis (if included)
-- `metro_job_postings_us.csv`: Cleaned dataset (if included)
+- `metro_job_postings_us.csv`: 46MB file which cannot be uploaded on github
 
 ---
 
